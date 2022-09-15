@@ -1,2 +1,2 @@
 # password-generator
-[Passwprd Generator](https://shoaib-password-generate.netlify.app/ "Password Generator")
+[Password Generator](https://shoaib-password-generate.netlify.app/ "Password Generator")
