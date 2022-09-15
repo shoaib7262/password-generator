@@ -18,7 +18,7 @@ body{
     background-color:  rgb(160, 129, 129) ;
     background: linear-gradient(120deg,red,green);
     border-radius: 5px;
-
+    position: relative;
 }
 .input{
     border-radius: 5px;
@@ -49,4 +49,12 @@ body{
     cursor: pointer;
     background-color: rgb(161, 71, 71);
     scale: 0.9;
+}
+.footer{
+    
+    position: absolute;
+    bottom: 5px;
+    left: 78px;
+    color: white;
+    font-size: smaller;
 }
